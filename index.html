@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mini VLC Media Player</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="player-container">
+        <h1>🎬 Mini VLC Media Player</h1>
+
+        <input type="file" id="fileInput" accept="video/*,audio/*">
+
+        <video id="mediaPlayer" controls></video>
+
+        <div class="controls">
+            <button onclick="playMedia()">▶ Play</button>
+            <button onclick="pauseMedia()">⏸ Pause</button>
+            <button onclick="stopMedia()">⏹ Stop</button>
+        </div>
+    </div>
+
+    <script src="js/player.js"></script>
+</body>
+</html>
