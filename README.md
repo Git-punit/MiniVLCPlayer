@@ -79,16 +79,6 @@ MiniVLCPlayer/
 
 **Punit Yadav**
 B.Tech (Software Engineering) – AKTU
-GitHub: *add your GitHub link here*
+GitHub: *https://github.com/Git-punit/MiniVLCPlayer*
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use for learning and educational purposes.
-
----
-
-If you want, next I can:
-👉 Write **2–3 line project description for resume**
-👉 Or **project explanation for viva / interview** 💯
