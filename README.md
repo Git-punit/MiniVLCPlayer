@@ -36,9 +36,6 @@ MiniVLCPlayer/
 │
 ├── js/
 │   └── player.js
-│
-└── assets/
-    └── icons/
 ```
 
 ---
